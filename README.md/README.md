@@ -1,7 +1,3 @@
-好的！以下是去除所有表情后的、自然简洁版的英文 README 草稿，你可以直接复制粘贴到 GitHub 的 `README.md` 文件中使用：
-
----
-
 # Quantium Virtual Internship – Retail Strategy and Analytics
 
 This repository contains my work for the Quantium Virtual Internship, focusing on retail analytics. The goal is to analyze customer transactions and purchasing behavior, clean and visualize the data, and draw actionable insights to support business decisions.
